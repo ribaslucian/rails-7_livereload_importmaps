@@ -77,3 +77,7 @@ group :development do
   gem 'guard-livereload', require: false
   gem 'rack-livereload'
 end
+
+gem "semantic-ui-sass", "~> 2.4"
+gem 'materialize-sass', '~> 1.0.0'
+gem 'jquery-rails'
